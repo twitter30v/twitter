@@ -3,4 +3,6 @@
 #Author Isi Pringle
 #Date: 11/28/2022
 
-
+#database connection 
+db-password=$password
+db-username=$user 
